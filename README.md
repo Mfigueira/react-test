@@ -2,6 +2,6 @@
 
 ## What is this?
 
-This is a simple project with some Jest Unit testing for React apps.
+This is a React project with some Jest Unit testing.
 
 Based on lectures from Academind's React course.
